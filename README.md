@@ -13,3 +13,5 @@
 
 ## How to stop
 1. Close the .exe
+
+Just a spare-time project...
